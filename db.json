@@ -17,6 +17,15 @@
       "email": "natalia@email.com",
       "followers": 51,
       "following": 7
+    },
+    {
+      "login": "jeffbreno",
+      "id": 3,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4751371?v=4",
+      "name": "Jefferson Lopes",
+      "email": "jeffbreno@gmail.com",
+      "followers": 43,
+      "following": 54
     }
   ],
   "repos": [
@@ -61,6 +70,12 @@
       "name": "Alura_cursos",
       "data": "1 de jan. de 2021",
       "postId": 1
+    },
+    {
+      "id": 1,
+      "name": "Começando React native",
+      "data": "1 Agosto de 2023",
+      "postId": 3
     }
   ]
 }
